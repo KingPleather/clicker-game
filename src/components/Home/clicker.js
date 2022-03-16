@@ -7,8 +7,7 @@ const Clicker =()=>{
 
     const handleClick =()=>{
 
-        setCredits({amount:credits.amount+credits.perclick, perclick:credits.perclick})
-        console.log(credits)
+        setCredits({amount: credits.amount+credits.perclick,perclick: credits.perclick, creditsPerSec:credits.creditsPerSec, botsBought:credits.botsBought,upgradesBought:credits.upgradesBought})        
         
 
     }

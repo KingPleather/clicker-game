@@ -1,18 +1,18 @@
-
-[{
-    "title" : "Kyber Crystal",
-    "description": "Adds 2 credits to current credits per click",
-    "upgrade": "+2",
-    "price" : "20",
+[
+  {
+    "id": "0",
+    "title": "Kyber Crystal",
+    "description": "Adds 1 credit to current credits per click",
+    "upgrade": "+1",
+    "price": "20",
     "bought": "false"
-
-},{
-        "title": "Force Nexus",
-        "description": "Doubles current credits per click",
-        "upgrade": "x2",
-        "price" : "200",
-        "bought": "false"
-
-}
+  },
+  {
+    "id": "1",
+    "title": "Force Nexus",
+    "description": "Doubles current credits per click",
+    "upgrade": "x2",
+    "price": "100000",
+    "bought": "false"
+  }
 ]
-
